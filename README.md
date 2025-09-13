@@ -1,6 +1,7 @@
 ## 📌 Important Note
 This project was originally developed for my coursework using my Temple University GitHub account (tull-07). I’ve duplicated it here under my personal account for portfolio purposes.
-
+You can view the full commit history and original repository here:  
+👉 [cis3296s25/Forza-Horizon-StatsTracker](https://github.com/cis3296s25/Forza-Horizon-StatsTracker)
 
 # Forza Horizon Stats Tracker
 
