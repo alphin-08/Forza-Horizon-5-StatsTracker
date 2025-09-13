@@ -1,4 +1,5 @@
-**This project was originally developed for my coursework using my Temple University GitHub account (tull-07). I’ve duplicated it here under my personal account for portfolio purposes.**
+## 📌 Important Note
+This project was originally developed for my coursework using my Temple University GitHub account (tull-07). I’ve duplicated it here under my personal account for portfolio purposes.
 
 
 # Forza Horizon Stats Tracker
